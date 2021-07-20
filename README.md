@@ -52,6 +52,7 @@ Resolución del capitulo 10 (ejercicios pares)
 
 4. VIDEO
 
+https://youtu.be/6LWmK6q9f7Y
 
 5. CONCLUSIONES
 
