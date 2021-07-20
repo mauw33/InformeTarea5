@@ -18,11 +18,11 @@
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-Resolución del capitulo 7 (ejercicios impares)
+Resolución del capitulo 9 (ejercicios impares)
 
 ![Screenshot]()
 
-Resolución del capitulo 8 (ejercicios pares)
+Resolución del capitulo 10 (ejercicios pares)
 
 
 
@@ -31,9 +31,9 @@ Resolución del capitulo 8 (ejercicios pares)
 
 5. CONCLUSIONES
 
-El trabajo realizado para la resolución del deber ha sido muy provechosa por varias razones, las cuales se resumen en esta conclusión. En primer lugar, se ha practicado el uso de circuitos en serie de paralelo y los diferentes metodos de analisis.Esencialmente el metodo de mallas y nodos, asi mismo las redes puentes.
+El trabajo realizado para la resolución del deber ha sido muy provechosa por varias razones, las cuales se resumen en esta conclusión. En primer lugar, se ha practicado el uso de los diferentes tipos de teoremas de redes y se empezo a estudiar sobre los capacitores y su capacitancia.
 
-También se pudo ampliar el concepto analisis por computadora estableciendo relaciones entre estos valores en base a los ejercicios con los que se están trabajando en este deber. Un aprendizaje muy valioso que se obtuvo de este trabajo es que se tiene la forma en que se aplicaron los conceptos y propiedades que nos brindó el libro de Análisis de Circuitos de los capítulos 7 y 8 que fueron comprobadas, por medio de la resolución de los ejercicios. Se ha cumplido con los objetivos propuestos para este trabajo, y se desea que este reporte sea de provecho para aquellos que próximamente aplique sus conceptos.
+También se pudo ampliar el concepto analisis por computadora estableciendo relaciones entre estos valores en base a los ejercicios con los que se están trabajando en este deber. Un aprendizaje muy valioso que se obtuvo de este trabajo es que se tiene la forma en que se aplicaron los conceptos y propiedades que nos brindó el libro de Análisis de Circuitos de los capítulos 9 y 10 que fueron comprobadas, por medio de la resolución de los ejercicios. Se ha cumplido con los objetivos propuestos para este trabajo, y se desea que este reporte sea de provecho para aquellos que próximamente aplique sus conceptos.
 
 6. BIBLIOGRAFÍA
 
