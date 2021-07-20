@@ -14,17 +14,41 @@
 
 2. MARCO TEÓRICO (RESUMEN)
 
-![Screenshot]()
+![Screenshot](DEBER9Y10/1.jpg)
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 Resolución del capitulo 9 (ejercicios impares)
 
-![Screenshot]()
+![Screenshot](DEBER9Y10/2.jpg)
+![Screenshot](DEBER9Y10/3.jpg)
+![Screenshot](DEBER9Y10/4.jpg)
+![Screenshot](DEBER9Y10/5.jpg)
+![Screenshot](DEBER9Y10/6.jpg)
+![Screenshot](DEBER9Y10/7.jpg)
+![Screenshot](DEBER9Y10/8.jpg)
+![Screenshot](DEBER9Y10/9.jpg)
+![Screenshot](DEBER9Y10/10.jpg)
+![Screenshot](DEBER9Y10/11.jpg)
+![Screenshot](DEBER9Y10/12.jpg)
+![Screenshot](DEBER9Y10/13.jpg)
+![Screenshot](DEBER9Y10/14.jpg)
+![Screenshot](DEBER9Y10/15.jpg)
+![Screenshot](DEBER9Y10/16.jpg)
+![Screenshot](DEBER9Y10/17.jpg)
 
 Resolución del capitulo 10 (ejercicios pares)
 
-
+![Screenshot](DEBER9Y10/18.jpg)
+![Screenshot](DEBER9Y10/19.jpg)
+![Screenshot](DEBER9Y10/20.jpg)
+![Screenshot](DEBER9Y10/21.jpg)
+![Screenshot](DEBER9Y10/22.jpg)
+![Screenshot](DEBER9Y10/23.jpg)
+![Screenshot](DEBER9Y10/24.jpg)
+![Screenshot](DEBER9Y10/25.jpg)
+![Screenshot](DEBER9Y10/26.jpg)
+![Screenshot](DEBER9Y10/27.jpg)
 
 4. VIDEO
 
